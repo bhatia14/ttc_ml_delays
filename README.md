@@ -1,5 +1,7 @@
 # ttc_ml_delays
 
+#download git command line software from : https://git-scm.com/download
+
 #Steps to clone repo
 
 #1. use `git clone <clone_path>`
